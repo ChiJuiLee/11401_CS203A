@@ -1,4 +1,4 @@
-# 11401_CS203A
-## Class: Data Sstructure
-A way of organizing, storing, and managing data efficiently.
-s
+# 11401_CS203A Class: Data Sstructure
+## Course Imformation
+= Course name 
+
