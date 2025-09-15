@@ -9,6 +9,6 @@
   -Tuesday 13:10~17:00(R1102)
 ## My Imformation
 - Name : 李啓睿
-- Student : 1131709
+- Student ID: 1131709
 ## Repository Description
 - Record my class learning process
