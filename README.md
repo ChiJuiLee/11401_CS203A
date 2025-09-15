@@ -1,6 +1,7 @@
 # 11401_CS203A Class: Data Structures
 ## Course Imformation
 - Course Name : Data Structures
+- Course Introduction : A way of organizing, storing, and managing data efficiently.
 - Semester : 11401
 - Credit : 3
 - Teacher : Yu-Feng Huang
@@ -10,6 +11,7 @@
 ## My Imformation
 - Name : 李啓睿
 - Student ID: 1131709
-- [Personal Website Repository](https://chijuilee.github.io/)
+- Personal Website Repository : ChiJuiLee.github.io
+- Personal Website Repository URL: [https://chijuilee.github.io/](https://chijuilee.github.io/)
 ## Repository Description
 - Record my class learning process
