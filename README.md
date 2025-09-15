@@ -10,6 +10,6 @@
 ## My Imformation
 - Name : 李啓睿
 - Student ID: 1131709
-- [Personal Website Repository]: https://chijuilee.github.io/
+- [Personal Website Repository](https://chijuilee.github.io/)
 ## Repository Description
 - Record my class learning process
