@@ -7,9 +7,9 @@
     This file contains the hash functions for integer and string keys.
 
    Development History:
-    - 2025/11/17: Initial implementation
+    - 2025/11/11: Initial implementation
 
-   Developer: Yu-Feng Huang <yfhuang@saturn.yzu.edu.tw>
+   Developer: CHIJUILEE <ready950110@gmail.com>
  */
 #ifndef HASH_FN_HPP
 #define HASH_FN_HPP

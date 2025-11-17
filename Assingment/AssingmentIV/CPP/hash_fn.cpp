@@ -7,7 +7,8 @@
     This file contains the hash functions for integer and string keys.
 
    Development History:
-    - 2025/11/17: Initial implementation
+    - 2025/11/11: Initial implementation
+    - 2025/11/17: change integer and string hash
 
    Developer: CHIJUILEE <ready950110@gmail.com>
  */

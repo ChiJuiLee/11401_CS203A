@@ -9,8 +9,8 @@
    defined in "hash_fn.cpp".
 
    Development History:
-    - 2025/11/17: Initial implementation
-
+    - 2025/11/11: Initial implementation
+    
    Developer: CHIJUILEE <ready950110@gmail.com>
  */
 

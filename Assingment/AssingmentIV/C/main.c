@@ -11,12 +11,12 @@
    Development History:
     - 2025/11/11: Initial implementation
 
-   Developer: Yu-Feng Huang <yfhuang@saturn.yzu.edu.tw>
+   Developer: CHIJUILEE <ready950110@gmail.com>
  */
 
 #include <stdio.h>
 #include <string.h>
-#include "hash_fn.h"
+#include "hash_fn.c"
 
 // Caution: Do not change the content of this file.
 
