@@ -286,27 +286,54 @@ Email: ready950110@gmail.com
   fox     25
   ```
 
-- Observations: Outputs align with the analysis, showing better distribution with prime table sizes.
+- Observations: Although the index will different when the integers' unit digit are the same. the index become out of control.
 - Example output for integers:
   ```
-  Hash table (m=10): [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
-  Hash table (m=11): [10, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-  Hash table (m=37): [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, ...]
+   === Table Size m = 10 ===
+    Key     Index
+    -----------------
+    21      9
+    22      5
+    23      2
+    24      8
+    25      4
+    26      0
+    27      6
+    28      3
+    29      9
+    30      5
+    51      5
+    52      1
+    53      7
+    54      3
+    55      9
+    56      6
+    57      2
+    58      8
+    59      4
+    60      0
   ```
 - Example output for strings:
   ```
-  Hash table (m=10): ["cat", "dog", "bat", "cow", "ant", ...]
-  Hash table (m=11): ["fox", "cat", "dog", "bat", "cow", ...]
-  Hash table (m=37): ["bee", "hen", "pig", "fox", "cat", ...]
+  === String Hash (m = 10) ===
+  Key     Index
+  -----------------
+  cat     5
+  dog     3
+  bat     6
+  cow     0
+  ant     6
+  owl     1
+  bee     3
+  hen     6
+  pig     3
+  fox     8
   ```
-- Observations: Outputs align with the analysis, showing better distribution with prime table sizes.
-
 ## Analysis
-- Prime vs non-prime `m`: Prime table sizes generally result in better distribution and fewer collisions.
-- Patterns or collisions: Non-prime table sizes tend to produce repetitive patterns, leading to more collisions.
-- Improvements: Use a prime table size and a well-designed hash function to enhance distribution.
+- In my method when the key is small then m, it may not be useful.
+- It can solution when key's unit digit are same.
+- Index no rules.
 
 ## Reflection
 1. Designing hash functions requires balancing simplicity and effectiveness to minimize collisions.
-2. Table size significantly impacts the uniformity of the hash distribution, with prime sizes performing better.
-3. The design using a prime table size and a linear transformation formula produced the most uniform index sequence.
+2. when the key's quantity is small then m, this method will not be useful.
