@@ -6,7 +6,7 @@ evaluate their efficiency, and understand their applications in computer science
 
 Developer: 李啓睿 
 Email: ready950110@gmail.com  
-
+enviroment: Windows
 ## My Hash Function
 ### Integer Keys 
 - Formula / pseudocode:
