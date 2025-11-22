@@ -1,5 +1,5 @@
 # Connect to GitHub with VSCode
-
+In Windows
 ## Prerequisites
 Before you begin, ensure you have the following:
 - Visual Studio Code installed on your computer. [Download VS Code here](https://code.visualstudio.com/)
