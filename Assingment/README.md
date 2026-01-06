@@ -1,6 +1,6 @@
 # Assingment
-- AssingmentI: create github
-- [AssingmentII](./AssingmentII.pdf): 
+- AssingmentI: Create github
+- [AssingmentII](./AssingmentII.pdf): Familiar with array creation and array visualization
 - [AssingmentIII](./AssingmentIII.pdf): 
-- AssingemntIV: hashing code
+- AssingemntIV: Hashing code
 - [AssingemntV](./assingmentV.pdf): 
